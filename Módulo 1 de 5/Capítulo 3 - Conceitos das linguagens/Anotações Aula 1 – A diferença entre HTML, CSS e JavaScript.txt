@@ -1,0 +1,62 @@
+---
+Conhecendo os nomes -
+
+
+A HTML =
+HYPER-TEXT
+MARKUP
+LANGUAGUE
+
+AS CSS =
+CASCADING
+STYLE
+SHEETS
+
+HTML é uma linguagem focada em CONTEÚDO(textos, imagens, vídeos, tabelas etc).
+CSS é uma linguagem focada em DESIGN(cores, sombras, tamanho, posicionamento).
+
+---
+HTML
+
+
+<h1> Abertura de tag
+</h> Fechamento de tag
+<p> Exemplo de Parágrafo </p>
+
+<img src="foto.png" alt="Exemplo de foto">
+
+src e alt significam PARÂMETRO
+O que está escrito dentro de alt é valor
+
+---
+CSS
+
+
+h1 {
+    font-family: Arial;
+    font-size: 20pt;
+    color: blue;
+}
+
+h1 é o seletor
+O bloco é chmado de declaração
+color: é uma propriedade
+blue é o valor
+
+---
+Estrutura básica de documento HTML
+
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8"       //Importante para poder colocar todos os caracteres da nossa lingua
+        <meta name="viewport" content="width=device-width,initial-scale=1.0"
+        <title>Título da aba</title>
+    </head>
+    <body>
+        <h1>Olá, Mundo!</h1>        //Título escrito na página
+
+    </body>
+</html>

@@ -1,0 +1,11 @@
+---
+Diferença front-end, back-end e full stack
+
+
+front-end é o "client-side", que significa "lado do cliente".
+> Parte visual e interativo.
+> HTML5, CSS3, JS
+
+back-end é o "server-side", que significa "lado do servidor".
+> Parte de armazenamento de dados que vão conversar com o front-end.
+> PHP, JS, C#, Python, Ruby, Java.

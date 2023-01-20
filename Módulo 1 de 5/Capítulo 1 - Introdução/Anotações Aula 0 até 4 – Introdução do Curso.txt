@@ -1,0 +1,69 @@
+Curso iniciado 26/12/2022
+
+---
+Introdução
+
+
+Repositórios Públicos -
+
+https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf
+gustavoguanabara.github.io
+
+---
+Bibliografia Recomendada -
+
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTML
+https://developer.mozilla.org/pt-BR/docs/Web/CSS
+
+https://www.w3c.br
+
+https://whatwg.org
+
+https://www.w3schools.com
+
+---
+Livros -
+
+
+Série O'Reilly - 
+> HTML 5 Up and running
+> CSS the definitive guide
+> Flexbox in CSS
+> Grid Layout in CSS
+
+HTML5 e CSS3 - Elizabeth Castro e Bruce Hyslop - Alta Books
+
+HTML & CSS - Jon Duckett - Alta Books
+Livro caro e bonito, porém carece de aprofundação nos assuntos
+
+HTML e CSS - Elisabeth Robson e Eric Freeman - Alta Books
+Bom livro para Iniciantes
+
+Crie Seu Próprio - Site Nate Cooper e Kim Gee - Novatec
+Boa para incentivar/influencia crianças
+
+---
+Livros Design -
+
+
+Curso de design gráfico - David Dabner e outros - GG
+Livro bonito, ensina os princípios básicos de design
+
+O essencial do design gráfico - Bob e Maggie Gordon - Senac
+Livro de bolso, ensina princípios básicos de design
+
+A psicologia das cores - Eva Heller - GG
+Bom livro para se aprofundar na teoria das cores
+
+Pensar com tipos - Ellen Lupton - GG
+Livro de tipografia
+
+---
+História da Internet -
+
+
+Internet nasceu durando o período da Guerra Fria.
+A União Soviética lançou o satélite Sputnik, o que amedrontou o EUA, com isso um homem chamado Dwight Eisenhower, líder militar, criou a DARPA para estudo de tecnologias pra guerra.
+ARPANET foi criado para fazer um backup de dados entre bases do continente. NCP foi um protocolo inicial, para que os computadores de empresas diferentes pudessem se comunicar.
+TCP/IP é o protocolo que usamos atualmente.

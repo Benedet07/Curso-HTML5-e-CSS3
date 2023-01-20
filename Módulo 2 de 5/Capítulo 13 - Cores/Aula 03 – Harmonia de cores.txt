@@ -1,0 +1,69 @@
+-> Cores Primárias
+
+Exemplos:
+Amarelo, Vermelho, Azul
+
+
+-> Cores Secundárias
+
+Exemplos:
+Laranja, Violeta, Verde
+
+
+-> Cores Terciárias
+
+Sempre uma mistura da cor primárias com a cor secundária
+
+Exemplos: 
+amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado, azul-esverdeado
+
+
+-> Temperatura de Cores
+
+Cores frias: Azul, Violeta, Verde, amarelo-esverdeado, azul-arroxeado, azul-esverdeado
+
+Cores Quentes: Amarelo, Vermelho, Laranja, amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado
+
+---
+
+-> Cores Complementares
+
+Só traçar uma reta para o lado oposto do círculo cromático
+
+
+-> Cores Análogas
+
+Só traçar as duas cores vizinhas da cor principal
+
+
+(É usado três Cores Análogas com uma Cor Complementar)
+
+
+-> Cores Análogas Relacionadas
+
+Só escolher duas cores vizinhas e pular uma cor para pegar a terceira cor da paleta
+
+
+-> Cores Intercaladas
+
+Escolher uma cor prinicipal e pular a vizinha, até que tenham 3 cores na paleta
+
+
+-> Cores Triádicas
+
+Escolher uma cor principal e pular 3 vizinhas
+
+
+-> Cores em Quadrado
+
+Escolher uma cor principal e pular 2 vizinhas, até que tenham 4 cores na paleta
+
+
+-> Cores Tetrádicas
+
+Escolher duas cores principais e traçar suas Cores Complementares
+
+
+-> Monocromia
+
+Pegar uma cor principal e alterar sua saturação e luminosidade três vezes até dar 4 cores

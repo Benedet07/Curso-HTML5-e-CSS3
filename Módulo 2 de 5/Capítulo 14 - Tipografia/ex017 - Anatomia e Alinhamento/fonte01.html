@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            /* 
+            Medias Absolutas
+            cm,mm, in, *px*, pt, pc
+
+            Medidas Relativas
+            *em*, ex, rem, vw, vh, %
+
+            16px geralmente = 1em
+            */
+            font-size: 16px;
+        }
+        h1{
+            /* shorthand font
+            - font-style -> font-weight -> font-size -> font-family
+
+            font-family: 'Work Sans', sans-serif;
+            font-weight: bolder;
+            font-size: 3em;
+            font-style: italic;
+            */
+            font: italic bolder 3em 'Work Sans', sans-serif;
+        }
+
+        h2{
+            font: bold 2em 'Work Sans';
+        }
+    </style>
+</head>
+<body>
+    <h1>Trabalhando com Fontes</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum, nam, explicabo odio quasi optio exercitationem dicta ipsa rerum saepe ad voluptatum. Inventore cupiditate dolore maxime reprehenderit impedit unde aspernatur eligendi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor non perspiciatis, modi laudantium, sequi sapiente itaque repudiandae magni, at explicabo ducimus deleniti adipisci omnis nesciunt porro ullam enim nisi quasi! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis sequi modi aut iste ipsum rerum perferendis distinctio voluptate est ipsa consequatur temporibus suscipit, cum, asperiores placeat architecto nisi inventore optio.</p>
+    <h2>Subtítulo do exercício lore</h2>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed totam, laborum recusandae odit sequi id, sapiente facilis enim obcaecati at dolorem reprehenderit itaque cum! Nemo officiis eius vero magnam voluptates!</p>
+</body>
+</html>
